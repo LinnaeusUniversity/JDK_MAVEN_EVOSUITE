@@ -21,7 +21,7 @@
              
 1. MAVEN setup
       1. Downloading Apache Maven](https://maven.apache.org/docs/3.6.3/release-notes.html)
-            1. Binary zip archive apache-maven-3.x.x-bin.zip
+            1. Binary zip archive apache-maven-3.x.x-bin.zip 
       1. unzip apache-maven-3.x.x-bin.zip
       1. Go to Environment Variables
             1. go to User variables
@@ -35,7 +35,8 @@
 
                 Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
                 Maven home: C:\Program Files\MavenJar\apache-maven-3.6.3\bin\..
-                Java version: 1.8.0_281, vendor: Oracle Corporation, runtime: C:\Program Files\Java\jdk1.8.0_281\jre
+                Java version: 1.8.0_281, vendor: Oracle Corporation, runtime: 
+                C:\Program Files\Java\jdk1.8.0_281\jre
                 Default locale: en_US, platform encoding: Cp1252
                 OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 
