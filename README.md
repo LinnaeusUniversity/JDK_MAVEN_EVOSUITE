@@ -41,7 +41,7 @@
                 OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
                 
            ##### If the User Terminal does not worked run the Terminal as Administrator.
-           #####Intellij Terminal might not work. Use intellij Maven: right corner side panel: Lifecycle: to; compile,test.....
+           ##### Intellij Terminal might not work. Use intellij Maven: right corner side panel: Lifecycle: to; compile,test.....
 
 1. Intellij settings: make sure your project is setup correctly
     1. File
