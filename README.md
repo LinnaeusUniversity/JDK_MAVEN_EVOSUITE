@@ -2,8 +2,8 @@
 ## CONFIGURATIONS PROCESS
 
   #### JDK setup
-1. [Install JDK 1.8.0_281](https://www.oracle.com/java/technologies/javase/8u281-relnotes.html) or download it from this Repository.
-      ##### Remove other pre-installed JDKs from the Environment Variables. Stick one JDK 
+1. [Install JDK 1.8.0_281](https://www.oracle.com/java/technologies/javase/8u281-relnotes.html) OR [download it from this link](https://1drv.ms/u/s!AmGvpLcnczUeiqRpLuU-2wAbGqAThA?e=aksvTG). 
+      ##### Remove other pre-installed JDKs from the Environment Variables. Stick with one JDK 
    
     1. Go to Environment Variables
         1. User variables
@@ -21,11 +21,11 @@
               ##### It should work for both the  Administrator and the user.
              
 1. MAVEN setup
-      1. Downloading Apache Maven](https://maven.apache.org/docs/3.6.3/release-notes.html) or download it from this Repository.
+      1. Downloading Apache Maven](https://maven.apache.org/docs/3.6.3/release-notes.html) or download it from this Repository ***apache-maven-3.6.3-bin.zip***.
             1. Binary zip archive apache-maven-3.x.x-bin.zip 
-      1. unzip apache-maven-3.x.x-bin.zip
+      1. Unzip downloaded apache-maven-3.x.x-bin.zip
       1. Go to Environment Variables
-            1. go to User variables
+            1. Go to User variables
             1. PATH double click
             1. New  
                  1. choose Maven directory including the bin folder
@@ -40,7 +40,8 @@
                 Default locale: en_US, platform encoding: Cp1252
                 OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
                 
-           ###### Intellij Terminal might not work. Use intellij Maven: right corner side panel: Lifecycle: compile,test.....
+           ##### If the User Terminal does not worked run the Terminal as Administrator.
+           #####Intellij Terminal might not work. Use intellij Maven: right corner side panel: Lifecycle: to; compile,test.....
 
 1. Intellij settings: make sure your project is setup correctly
     1. File
@@ -48,6 +49,10 @@
         1. Project
             1. Project SDK
             1. Select the 1.8 (java version "1.8.0_281")
+                1. If you do not find it. add New
+                1. JDK
+                1. Java directory. 
+                1. e.g C:\Program Files\Java\jdk1.8.0_281
             1. Project language level
                 1. Select 8-Lambdas, type annotations etc.
                 
