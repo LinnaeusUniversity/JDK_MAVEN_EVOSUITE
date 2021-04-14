@@ -1,6 +1,16 @@
 # JDK_MAVEN
 ## CONFIGURATIONS PROCESS
 
+[HEC BACHELOR DEGREE PROJECT REPOSITORY](https://github.com/rqkohistani/HECBachelorDegreeProject)
+1. [EVALUATION V1.0](https://github.com/rqkohistani/HECBachelorDegreeProject/blob/main/EVALUATION%20V1.0.md)
+1. [Older version of the Degree Project](https://github.com/rqkohistani/degreeProject)
+### 2. [PITEST EVALUATION REPOSITORY](https://github.com/rqkohistani/PiTest)
+1. [EVALUATION V.10](https://github.com/rqkohistani/PiTest/blob/main/PITEST%20EVALUATION%20RESULTS%20V%201.0.md)
+### 3. [EVOSUITE EVALUATION REPOSITORY](https://github.com/rqkohistani/EvoSuite)
+1. [EVALUATION V.10](https://github.com/rqkohistani/EvoSuite/blob/main/Evaluation%20V_1.0.md)
+
+***
+
   #### JDK setup
 1. [Install JDK 1.8.0_281](https://www.oracle.com/java/technologies/javase/8u281-relnotes.html) OR [download it from this link](https://1drv.ms/u/s!AmGvpLcnczUeiqRpLuU-2wAbGqAThA?e=aksvTG). 
       ##### Remove other pre-installed JDKs from the Environment Variables. Stick with one JDK 
@@ -56,6 +66,3 @@
             1. Project language level
                 1. Select 8-Lambdas, type annotations etc.
                 
-1. [Degree Project Repository](#)
-
-1. [EvoSuite Repository ](https://github.com/rqkohistani/EvoSuite)      
